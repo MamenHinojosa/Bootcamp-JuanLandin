@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 6 </title>
+		<meta charset="UTF-8">
+		<!-- pongo el charset de UTF-8 porque en el párrafo voy a poner tildes -->
+	</head>
+	<body>
+		<p>
+		Al llegar al parque había que <b> andar un ratito hasta llegar a las taquillas </b>. Primero tuvimos que pasar un <b>control de metales</b> tipo aeropuerto y una vez pasado, nos dirigimos a las taquillas electrónicas que con la prereserva solo tuvimos que escanear el código y la maquina nos dio las entradas, pero aun, debíamos ir a buscar la gratuita para los acompañantes que gestionamos en la parte de Donald Desk.
+		</p><br/>
+		
+		<p>
+		Allí la persona que nos atendió, me pidió la tarjeta que acreditaba de discapacidad. Me dio la entrada del acompañante y una <b>tarjeta verde con la que tenía privilegios en parque</b>. Con esta tarjeta, cuatro acompañantes y yo teníamos <b> preferencia tanto en las atracciones como en los espectáculos </b>. En cada atracción había dos colas, la habitual y la de personas con discapacidad, que se entra por la salida. Con esto, nos ahorramos horas de cola y en cuanto a los <b> espectáculos </b>, terminamos el privilegio de poder <b> sentarnos en las primeras filas </b>.
+		</p><br/>
+		
+		<p>
+		Cuando acabó el desfile, <b> regresamos al Apartahotel para comprar comida para la cena y la comida del día siguiente </b>. La verdad que perdimos muchísimo tiempo en gestionar todo esto, ya no solo en cocinar, si no, en ir a buscar el super mercado, venir cargados, fregar, hacer tuppers… para mi, <b> ha sido un gran error </b>.
+		</p>
+		
+	</body>
+</html>

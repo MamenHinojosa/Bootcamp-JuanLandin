@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> EJERCICIO 4 </title>
+	</head>
+	<body>
+		<ol type="A" start="c">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>	
+		</ol>
+		
+		<ol type="1" start="4">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>
+		</ol>
+		
+		<ol type="i">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>
+		</ol>
+	</body>
+</html>

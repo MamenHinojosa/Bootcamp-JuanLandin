@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 1 </title>
+		<meta charset= "UTF-8">
+	</head>
+	<body>
+		<a href="https://www.google.es/" rel="next" target="_blank"> Google </a>
+		<a href="https://www.marca.com/" rel="next" target="_blank"> Marca </a>
+		<a href="https://www.nh-hoteles.es/?campid=8435708&gclid=Cj0KCQiAhf2MBhDNARIsAKXU5GRcJMAlJQFbOBkXCjS_4DcszUeXXAUlB2icD1QUHF5IzC3HGoGExyYaAo7AEALw_wcB&gclsrc=aw.ds" rel="next" target="_blank"> NH </a>
+		<a href="https://twitter.com/?lang=es" rel="next" target="_blank"> Twitter </a>
+	</body>
+</html>

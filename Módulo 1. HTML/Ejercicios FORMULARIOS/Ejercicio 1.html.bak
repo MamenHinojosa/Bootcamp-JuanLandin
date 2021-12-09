@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 1 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<!-- Crea un formulario del login con un email, contraseña y un botón de login. -->
+		<form>
+			<input type="text" name="nombre" placeholder="email"> 
+			<input type="password" name="pass" placeholder="contraseña">
+			<button type"submit"> Login <button>
+		</form>	
+	</body>
+</html>

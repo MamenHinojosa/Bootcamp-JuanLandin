@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> 23 de noviembre de 2021 </title>
+	</head>
+	<body>
+		<meta charset="UTF-8">
+		<!-- pongo el charset de UTF-8 porque en el párrafo voy a poner tildes -->
+		<p>
+			¿Cuándo se creó esta web?
+		</p>
+	</body>
+</html>

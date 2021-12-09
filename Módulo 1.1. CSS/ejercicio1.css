@@ -1,0 +1,14 @@
+.p1 {
+color:red;
+}
+.p2 {
+color:red;
+}
+.p3 {
+color:red;
+}
+div p1 span {
+font-size:20px;
+color:#ccc;
+text-decoration: underline;
+}

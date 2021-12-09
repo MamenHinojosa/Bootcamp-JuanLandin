@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 3 </title>
+		<meta charset="UTF-8">
+		<!-- pongo el charset de UTF-8 porque en el párrafo voy a poner tildes -->
+	</head>
+	<body>
+		<cite><q> Danger is very real, but fear is a choice </q></cite><br/>
+		<i> Will Smith </i>
+		
+	</body>
+</html>

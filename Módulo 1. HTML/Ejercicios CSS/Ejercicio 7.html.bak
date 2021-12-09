@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 7 </title>
+		<meta charset="UTF-8">
+		<link href="ejercicio6.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<!-- Crea una web donde tengas tres divs principales: header, main-content y footer. 
+		Tendrás que crear unos estilos determinados. 
+		En el header deberá ir un encabezado, 
+		en el main-content dos párrafos, 
+		y en el footer 3 enlaces en texto, 3 enlaces en imágenes y un encabezado pequeño.-->
+		
+		
+	</body>
+</html>

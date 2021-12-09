@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 8 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h2> Imagen 1 </h2>
+			<a href="./ejercicio8/prueba.pdf"><img src="ejercicio8/pdf.jpg" alt="PDF" width="50%" height="50%" align="right"></a>
+		<br/>
+		
+		<h2> Imagen 2 </h2>
+			<a href="mailto:mamenhinojosa1999@gmail.com" target="_blank"><img src="ejercicio8/correo.jpg" alt="Correo" width="50%" height="50%" align="right"></a>
+		<br/>
+		
+		<h2> Imagen 3 </h2>
+			<a href="www.google" target="_blank"><img src="ejercicio8/enlace.jpg" alt="Enlace" width="50%" height="50%" align="right"></a>
+		<br/>
+	</body>
+</html>

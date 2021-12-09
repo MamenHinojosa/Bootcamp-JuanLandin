@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> EJERCICIO 6 </title>
+	</head>
+	<body>
+		<table border="1">
+			<tbody>
+				<tr>
+					<td>
+						<ol type="1">
+							<li> UNO </li>
+							<li> DOS </li>
+							<li> TRES </li>	
+						</ol>
+					</td>
+					<td>
+						<ol type="A">
+							<li> UNO </li>
+							<li> DOS </li>
+							<li> TRES </li>	
+						</ol>
+					</td>
+					<td>
+						<ul>
+							<li> UNO </li>
+							<li> DOS </li>
+							<li> TRES </li>	
+						</ul>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="https://lamenteesmaravillosa.com/wp-content/uploads/2018/09/hombre-creido-pensando-que-sabe.jpg"></td>
+				</tr>
+			</tbody>
+		</table>
+	</body>
+</html>

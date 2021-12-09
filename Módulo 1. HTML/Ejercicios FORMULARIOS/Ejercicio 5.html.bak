@@ -1,0 +1,67 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 5 </title>
+		<meta charset="UTF-8">
+		<link href="ejercicio5.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<!-- Crea dos divs con un color de borde diferente. 
+		En cada uno deberá ir un formulario distinto. 
+		En el segundo div, el formulario deberá contener TODOS los elementos dados sobre formularios. -->
+		
+		<div class="div1">
+			<form>
+				<textarea  name="observaciones" id="observaciones" rows="25" cols="25">Texto del textarea</textarea>
+			</form>
+		</div>
+		
+		<div class="div2">
+			 <fieldset>
+				<legend> Recopilación elementos formularios </legend>
+				<input type="text" name="nombre" placeholder="Nombre"><br>
+				
+				Género:
+				<input type="radio" name="genero" id="masculino" value="masculino" checked> 
+					<label for="masculino">Masculino</label> 
+					<input type="radio" name="genero" value="femenino"> Femenino 
+					<input type="radio" name="genero" value="otro"> Otro <br/>
+				
+				<input type="email" name="email" placeholder="Email"><br/>
+				<input type="pasword" name="pasword" placeholder="Contraseña"><br/>
+				
+				Síntomas que presenta: <br/>
+				<input type="checkbox" name="sintomas" value="Mareos"> Mareos <br> 
+				<input type="checkbox" name="sintomas2" value="Fiebre"> Fiebre <br/>
+				<input type="checkbox" name="sintomas3" value="Tos"> Tos <br/>
+				
+				Vacunación del COVID-19:<br/>
+				<select name="vacunacovid" id="vacunacovid">
+					<optgroup label="Sí">
+						<option value="1"> Tengo solo una dosis </option>
+						<option value="2"> Tengo las dos dosis </option>
+					</optgroup>
+					<optgroup label="No">
+						<option value="no"> No tengo ninguna </option>
+					</optgroup>
+					<optgroup label="Otros">
+						<option value="nsnc"> No sabe, no contesta </option>
+						<option value="predet" selected> - Indique su vacunación - </option>
+					</optgroup>
+				</select> <br/>	
+				
+				<input type="hidden" name="oculto">
+				
+				Por favor, suba su cartilla de vacunación y su tarjeta de la seguridad social.
+				<input type="file" name"archivo">
+				
+				Si desea ponerse en contacto con nosotros pulse el siguiente botón:
+				<input type="button" value="Contactar"><br/>
+				
+				<textarea  name="observaciones" id="observaciones" rows="25" cols="25">Si tiene alguna duda por favor escribala aquí</textarea>
+			</fieldset>
+                
+		</div>
+		
+	</body>
+</html>

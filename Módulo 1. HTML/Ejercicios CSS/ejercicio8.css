@@ -1,0 +1,18 @@
+.div {
+border: 2px solid blue;
+background-color: lightblue;
+text-align: right;
+height: 150px;
+margin: 20px;
+}
+.left {
+border: 5px solid black;
+text-align: left;
+}
+.right {
+border: 5px solid black;
+text-align: right;
+}
+.center {
+text-align: center;
+}

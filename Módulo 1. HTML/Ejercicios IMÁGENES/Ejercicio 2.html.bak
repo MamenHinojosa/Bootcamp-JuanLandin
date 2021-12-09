@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 2 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h2> Imagen 1 </h2>
+			<img src="images/leon.jpg" alt="León" width="25%" height="auto" align="left">
+		<br/>
+		
+		<h2> Imagen 2 </h2>
+		<img src="images/buho.jpg" alt="Buho" width="25%" height="auto" align="left">
+		<br/>
+		
+		<h2> Imagen 3 </h2>
+		<img src="images/favicon-releevant.png" alt="Releevant" width="25%" height="auto" align="left">
+		<br/>
+		
+		<h2> Imagen 4 </h2>
+		<img src="images/logo-releevant.png" alt="Releevant" width="25%" height="auto" align="left">
+		<br/>
+		
+		<h2> Imagen 5</h2>
+		<img src="images/oso-panda.jpg" alt="Oso Panda" width="25%" height="auto" align="left">
+	
+	</body>
+</html>

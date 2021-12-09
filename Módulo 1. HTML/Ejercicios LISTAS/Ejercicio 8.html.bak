@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> EJERCICIO 8 </title>
+	</head>
+	<body>
+		<tbody>
+			<ol type="a" start="22">
+				<li> UNO </li>
+				<li> DOS </li>
+				<li> TRES </li>	
+			</ol>
+			<ul>
+			A CONTINUACIÓN LISTA ORDENADA
+				<ol type="reverse">
+					<li> UNO </li>
+					<li> DOS </li>
+					<li> TRES </li>
+			</ul>
+			
+			<ol type="A">
+				<li> UNO </li>
+				<li> DOS </li>
+				<li> TRES </li>
+			</ol>
+		</tbody>
+	</body>
+</html>

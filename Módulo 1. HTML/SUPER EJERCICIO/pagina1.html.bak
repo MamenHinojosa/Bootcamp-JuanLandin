@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Página de inicio </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h1> PÁGINA DE INICIO </h1>
+		<p>
+			Permaneció frente al <b> escaparate </b> intentando olvidar que era el último día, hipnotizado por las <b> reliquias </b> que lo adornaban. Quizá las dejara allí para siempre, sin hacer el inventario, tal como estaban. 
+			Con <u> <font color = "green"> la </font></u> <u> <font color ="orange"> mirada </font></u> <u> <font color="blue"> perdida </font></u> , se marchó muy despacio, sin cerrar la puerta, volviendo la cabeza de vez en cuando.
+		</p><br/>
+		
+		<p>
+			El Gran <b> Rey </b>
+			recibía <i> dinero </i> cada vez que se movía. Para ello, tenía su <i> tropa </i> de sirvientes que lo <i> cargaban </i> al 
+			<b><i>lugar </b></i> que <b><i> él quisiera.</b></i>
+		</p><br/>
+		
+		<p>
+			El Gran Rey <sup> 1 </sup> recibía dinero <s> cada vez que se movía. </s><br/> Para ello, tenía su tropa de sirvientes que lo cargaban al lugar que él quisiera.
+		</p><br/>
+		
+		<p></p><br/>
+		<h2> BARRA DE NAVEGACIÓN </h2>
+		<a href="Super ejercicio.html" rel="next" target="_self"> Página principal </a> <br/>
+		<a href="pagina2.html" rel="next" target="_self"> Página de contenido </a> <br/>
+		<a href="pagina3.html" rel="next" target="_self"> Página de contacto </a> <br/>
+	</body>
+</html>

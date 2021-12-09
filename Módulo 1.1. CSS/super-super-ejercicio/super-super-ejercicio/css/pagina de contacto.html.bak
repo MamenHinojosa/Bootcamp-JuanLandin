@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Página de Contacto </title>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="styles.css">
+		<link rel="stylesheet" type="text/css" href="formulario.css">
+	</head>
+	<body>
+		<div id="header">
+			<img class="logo" align="center" src="images/logo.png" border="0" width="150px" height="60px">
+			<ul class="menu">
+				<a href="super-super-ejercicio.html">Inicio</a>
+				<a href="pagina de servicios.html">Servicios</a>
+				<a href="pagina sobre nosotros.html">Sobre Nosotros</a>
+				<a href="pagina de contacto.html">Contacto<a>
+			</ul>		
+		</div>
+		
+		<div id="main">
+		
+			<img class="imagen2" src="images/contacto.png">
+			
+			<div class="contact_form">
+
+				<div class="formulario">      
+				  <h1>Formulario de contacto</h1>
+					<h3>Escríbenos y en breve los pondremos en contacto contigo</h3>
+					  <form action="submeter-formulario.php" method="post">       
+							<p>
+							  <label for="nombre" class="colocar_nombre">Nombre
+								<span class="obligatorio">*</span>
+							  </label>
+								<input type="text" name="introducir_nombre" id="nombre" required="obligatorio" placeholder="Escribe tu nombre">
+							</p>
+						  
+							<p>
+							  <label for="email" class="colocar_email">Email
+								<span class="obligatorio">*</span>
+							  </label>
+								<input type="email" name="introducir_email" id="email" required="obligatorio" placeholder="Escribe tu Email">
+							</p>
+						
+							<p>
+							  <label for="telefone" class="colocar_telefono">Teléfono
+							  </label>
+								<input type="tel" name="introducir_telefono" id="telefono" placeholder="Escribe tu teléfono">
+							</p>    
+						  
+							<p>
+							  <label for="website" class="colocar_website">Sitio web
+							  </label>
+								<input type="url" name="introducir_website" id="website" placeholder="Escribe la URL de tu web">
+							</p>    
+						  
+							<p>
+							  <label for="asunto" class="colocar_asunto">Asunto
+								<span class="obligatorio">*</span>
+							  </label>
+								<input type="text" name="introducir_asunto" id="assunto" required="obligatorio" placeholder="Escribe un asunto">
+							</p>    
+						  
+							<p>
+							  <label for="mensaje" class="colocar_mensaje">Mensaje
+								<span class="obligatorio">*</span>
+							  </label>                     
+												<textarea name="introducir_mensaje" class="texto_mensaje" id="mensaje" required="obligatorio" placeholder="Deja aquí tu comentario..."></textarea> 
+											</p>                    
+						  
+							<button type="submit" name="enviar_formulario" id="enviar"> <p>Enviar</p> </button>
+
+							<p class="aviso">
+							  <span class="obligatorio"> * </span>los campos son obligatorios.
+							</p>          
+						
+					  </form>
+				</div>  
+			 </div>
+			 
+			<h2 class="p"> Suscríbete a la Newsletter </h2>
+			<p class="p"> Recibe <span class="newsletter"> cada semana </span> los mejores recursos del email marketing <span class="newsletter"> en tu email </span> </p>
+			<input class="p" type="email" name="email" id="email" placeholder="Email">
+		</div>
+		
+		<div id="aside">
+			<h2> NOTICIAS </h2>
+			<ul>
+				<section> 
+					<a href="https://www.hosteltur.com/147535_la-low-cost-islandesa-play-amplia-sus-rutas-a-espana-en-verano-de-2022.html">
+					<font color="blue"><i>La low cost islandesa Play amplía sus rutas a España en invierno y verano.</i></font>
+					<a> <br/><br/>
+					
+					<img class="noticias" src="images/avion.png" width="50%" height="50%">	
+				</section>
+				
+				<section> 
+					<a href="https://www.hosteltur.com/148179_el-mett-hotel-beach-resort-abrira-en-malaga-en-el-verano-2022.html">
+					<font color="blue"><i>El Meet Hotel & Beach Resort abrirá en Málaga en el verano de 2022.</i></font>
+					<a><br/><br/>
+					
+					<img class="noticias" class="noticias" src="images/hotel.png" width="100" height="100">
+				</section>
+				
+				<section> 
+					<a href="https://www.hosteltur.com/148022_costa-del-sol-un-destino-tambien-para-el-turismo-interior.html">
+					<font color="blue"><i>Costa del Sol, un destino también para el turismo interior.</i></font>
+					<a><br/><br/>
+					
+					<img class="noticias" src="images/costa.png" width="100" height="100">
+				</section>
+			</ul>
+		</div>
+			
+		<div id="footer">
+			<ul class="menu2">
+				<a href="super-super-ejercicio.html">Inicio</a>
+				<a href="pagina de servicios.html">Servicios</a>
+				<a href="pagina sobre nosotros.html">Sobre Nosotros</a>
+				<a href="pagina de contacto.html">Contacto<a>
+			</ul>	
+			
+			<section class="box2">
+				<a href="https://www.instagram.com/malagaturismo/?hl=es">
+				<img src="images/insta.jpg" width="25" height="25"></a>
+				
+				
+				<a href="https://es-es.facebook.com/MalagaTurismoOficial/">
+				<img src="images/facebook.jpg" width="25" height="25"></a>
+
+				
+				<a href="https://twitter.com/turismodemalaga?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">
+				<img src="images/twitter.jpg" width="25" height="25"></a>
+				
+			</section>
+			
+			<section class="box3">
+				<a class="imagen" href="https://www.google.com/maps/place/Ayuntamiento+de+M%C3%A1laga/@36.720239,-4.4149435,15z/data=!4m5!3m4!1s0x0:0x4ac313755a5eb0b6!8m2!3d36.720239!4d-4.4149435">
+					Dirección: Avenida de Cervantes, 4 </a>
+					
+				<a class="imagen" href="951926010"> Teléfono de contacto </a>
+			</section>
+		</div>
+		
+	</body>
+</html>

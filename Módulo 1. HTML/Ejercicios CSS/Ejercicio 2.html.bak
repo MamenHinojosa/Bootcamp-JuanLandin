@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 1 </title>
+		<meta charset="UTF-8">
+		<link href="style2.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		
+		<div class="main">
+			<h2> Encabezado </h2>
+			<p> Párrafo 1 </p> 
+			<p> Párrafo 2 </p>
+		</div>
+		
+	</body>
+</html>

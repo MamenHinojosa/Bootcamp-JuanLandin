@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 5 </title>
+		<meta charset="UTF-8">
+		<link href="ejercicio5.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<!-- Crea un div sin clase que incluya un encabezado y un párrafo. 
+		El párrafo deberá contener dos etiquetas span dentro de él, cada una con la clase base-span. -->
+		
+		<div>
+			<h2> Encabezado </h2>
+			<p> 
+				El párrafo deberá contener <span class="base-span"> dos etiquetas span </span> dentro de él, 
+				cada una <span class="base-span">con la clase base-span </span> 
+				<!-- No hace falta poner <div class="base-span"> para que funcione, funciona con cualquier tipo de etiqueta. -->
+			</p>
+		</div>
+		
+	</body>
+</html>

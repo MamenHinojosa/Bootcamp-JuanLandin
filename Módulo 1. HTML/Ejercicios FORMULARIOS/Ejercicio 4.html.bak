@@ -1,0 +1,51 @@
+<DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 4 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<!-- Crea un formulario en el cual incluyas tres agrupaciones distintas: 
+				Datos personales (tendrá tres inputs), 
+				Descripción de la consulta (tendrá un textarea y un checkbox) y la última, 
+				Añadir más información (un input file y un select). -->
+		
+		<form>
+			<fieldset>
+				<legend> Datos personales </legend>
+				<input type="text" name="nombre" placeholder="Nombre"><br/>
+				<input type="text" name="apellidos" placeholder="Apellidos"><br/>
+				<input type="email" name="email" placeholder="Email"><br/>
+			</fieldset>
+			
+			<fieldset>
+				<legend> Descripción de la consulta </legend>
+				<input type="checkbox" name="sintomas" value="Mareos"> Mareos <br> 
+				<input type="checkbox" name="sintomas2" value="Fiebre"> Fiebre <br/>
+				<input type="checkbox" name="sintomas3" value="Tos"> Tos <br/>
+				<textarea  name="observaciones" id="observaciones" rows="25" cols="25">Escriba aquí otros síntomas</textarea>
+			</fieldset>
+			
+			<fieldset>
+				<legend> Añadir más información </legend>	
+				<select name="vacunacovid" id="vacunacovid">
+					<optgroup label="Sí">
+						<option value="1"> Tengo solo una dosis </option>
+						<option value="2" selected> Tengo las dos dosis </option>
+					</optgroup>
+					<optgroup label="No">
+						<option value="no"> No tengo ninguna </option>
+					</optgroup>
+					<optgroup label="Otros">
+						<option value="nsnc"> No sabe, no contesta </option>
+						<option value="predet" selected> - Indique su vacunación - </option>
+					</optgroup>
+				</select> <br/>
+				
+				Por favor, suba su cartilla de vacunación y su tarjeta de la seguridad social.
+				<input type="file" name"archivo">
+					
+			</fieldset>
+		</form>
+	</body>
+</html>

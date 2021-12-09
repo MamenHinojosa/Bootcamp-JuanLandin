@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 8 </title>
+		<meta charset="UTF-8">
+		<link href="ejercicio8.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<!-- Crea un div e introduce en él una tabla con tres columnas, una imagen y un párrafo. 
+		Investiga y consigue que cada uno se alinee a la izquierda, centro y derecha respectivamente.-->
+		
+		<div class="div">
+			<table border="1" cellspacing="0" height="1" bordercolor="pink">
+				<tbody>
+					<tr class="left">
+						<td> Celda 1 </td>
+						<td> Celda 2 </td>
+						<td> Celda 3 </td>
+					</tr>
+					
+					<a href="https://www.xatakandroid.com/aplicaciones-android/google-search-se-renueva-asi-nuevo-diseno-su-buscador-para-dispositivos-moviles">
+						<img src="https://i.blogs.es/f62f70/google-search/1366_521.jpg"
+								class="center" width="10%"> 
+					</a>
+					<p class="right"> Párrafo </p>
+					
+				</tbody>
+			</table>
+		</div>		
+	</body>
+</html>

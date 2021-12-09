@@ -1,0 +1,8 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<code> Quiero explicar la etiqueta &lt;code&gt; <code>
+		<!-- si, en vez de poner "&lt; code &gt;", pongo "<code>", en la web me va a salir "Quiero explicar la etiqueta" en vez de "quiero explicar la etiqueta <code> -->
+	</body>
+</html>

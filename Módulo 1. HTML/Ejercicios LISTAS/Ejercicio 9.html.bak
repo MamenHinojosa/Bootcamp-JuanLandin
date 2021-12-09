@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> EJERCICIO 9 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<ol type="I"> 
+			<li>
+				<i><font color="blue">APARTADO 1 </font></i>
+				<a href="./images/leon1.png" target="_blank"><img src="./images/leon1.png" alt="León 1" width="50%" height="auto" align="left"></a> <br/>
+			</li>
+			<li><i><font color="pink">APARTADO 2 </font></i></li>
+			<li><i><font color="orange">APARTADO 3 </font></i></li>
+			<li><i><font color="green">APARTADO 4 </font></i></li>
+			<li><i><font color="red">APARTADO 5 </font></i></li>
+		</ol>
+	</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 2 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<!-- Crea un formulario típico de una web. 
+		Contendrá un input nombre, email, un textarea donde puedas incluir un mensaje, 
+		una checkbox de política de privacidad, y un botón de enviar. -->
+		
+		<form>
+			<input type="text" name="nombre" placeholder="nombre"><br/>
+			<input type="text" name="nombre" placeholder="email"><br/>
+			<textarea  name="observaciones" id="observaciones" rows="8" cols="50"> Textarea </textarea><br/>
+			<input type="checkbox" name="pyp" value="política" checked> Política <br> 
+				<input type="checkbox" name="pyp" value="Privacidad"> Privacidad <br/>
+			<button type"submit"> Enviar <button>
+		</form>	
+	</body>
+</html>

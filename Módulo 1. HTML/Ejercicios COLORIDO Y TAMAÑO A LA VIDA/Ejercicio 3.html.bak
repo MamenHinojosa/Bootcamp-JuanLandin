@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 3 </title>
+		<meta charset= "UTF-8">
+	</head>
+	<body>
+		<p><Font color= pink> Rellene los datos: </font></p><br/> 
+		<p><Font color= red> Nombre: Mamen </font></p><br/> 
+		<p><Font color= blue> Apellidos: Martín de la Hinojosa Casas </font></p><br/>
+	</body>
+</html>

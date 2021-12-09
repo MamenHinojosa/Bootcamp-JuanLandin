@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 8 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<h2> Imagen 1 </h2>
+			<a href="./ejercicio8/prueba.pdf">
+				<img src="ejercicio8/pdf.jpg" alt="PDF" width="100%" height="100%" align="right">
+			</a>
+		<br/>
+	</body>
+</html>

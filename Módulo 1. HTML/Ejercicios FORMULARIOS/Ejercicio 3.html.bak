@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 3 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<!-- Haz un formulario con 6 inputs, un select, un radio button, un botón de reset y otro de enviar. -->
+		
+		<form>
+			<input type="text" name="nombre" placeholder="Nombre"> <br/>
+			<input type="text" name="apellidos" placeholder="Apellidos"> <br/>
+			<input type="email" name="email" placeholder="Email"> <br/>
+			<input type="pasword" name="pass" placeholder="Contraseña"> <br/>
+			<input type="pasword" name="pass" placeholder="Repita la contraseña"> <br/>
+			<input type="radio" name="genero" id="masculino" value="masculino" checked> 
+				<label for="masculino"> Masculino </label>
+			<input type="radio" name="genero" id="masculino" value="masculino" checked> 
+				<label for="masculino"> Femenino </label>
+			<input type="radio" name="genero" id="masculino" value="masculino" checked> 
+				<label for="masculino"> Otro </label> <br/>
+							
+			<select name="Estudios" id="Estudios">
+				<optgroup label="Básicos">
+					<option value="ESO"> ESO</option>
+				</optgroup>
+				<optgroup label="Medios">
+					<option value="FP"> Formación Profesional Grado Medio </option>
+					<option value="Bach"> Bachillerato</option>
+				</optgroup>
+				<optgroup label="Superiores">
+					<option value="FP2" > Formación Profesional Grado Superior </option>
+					<option value="Uni" > Carrera Universitaria </option>
+				</optgroup>
+				<optgroup label="Otros">
+                            <option value="SF" selected> - Seleccione su formación - </option>
+                            <option value="NF"> No tengo formación </option>
+                </optgroup>
+            </select> <br/>
+			
+			<input type="reset" value="Restablecer">
+			<button type"submit"> Enviar </button> 
+		</form>	
+	</body>
+</html>

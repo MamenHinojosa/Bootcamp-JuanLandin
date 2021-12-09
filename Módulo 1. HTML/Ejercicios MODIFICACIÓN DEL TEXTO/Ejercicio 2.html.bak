@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 2 </title>
+		<meta charset="UTF-8">
+		<!-- pongo el charset de UTF-8 porque en el párrafo voy a poner tildes -->
+	</head>
+	<body>
+		<p>
+			10 <sup> 1 </sup> = 10 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 2 </sup> = 100 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 3 </sup> = 1000 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 4 </sup> = 10000 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 5 </sup> = 100000 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 6 </sup> = 1000000 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 7 </sup> = 10000000 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 8 </sup> = 100000000 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 9 </sup> = 1000000000 <br/>
+		</p><br/>
+		
+		<p>
+			10 <sup> 10 </sup> = 10000000000 <br/>
+		</p><br/>
+		
+	</body>
+</html>

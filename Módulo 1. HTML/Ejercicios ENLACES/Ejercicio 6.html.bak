@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 6 </title>
+		<meta charset= "UTF-8">
+	</head>
+	<body>
+		<h2> Enlaces externos </h2> <br/>
+		<a href="https://www.google.es/" rel="next" target="_blank"> Google </a> <br/>
+		<a href="https://www.marca.com/" rel="next" target="_blank"> Marca </a> <br/>
+		<h2> Página creada por mi </h2> <br/>
+		<a href="./patata.html"> patata </a>
+		<h2> Página creada por mi en carpeta diferente </h2> <br/>
+		<a href="C:\Users\migue\Desktop\Programación\Ejercicios ENLACES\Enlaces externos"> patata </a>
+		
+		
+	</body>
+</html>

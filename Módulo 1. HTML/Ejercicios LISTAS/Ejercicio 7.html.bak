@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> EJERCICIO 7 </title>
+	</head>
+	<body>
+		<tbody>
+			<dl>
+				<ul>
+					<li>
+					LISTA DESORDENADA
+						<ol type="I">
+							<li> 
+							LISTA NÚMEROS ROMANOS
+								<ol type="1">
+									<li> 
+									LISTA ORDENADA
+										<ul>
+											<li> UNO </li>
+											<li> DOS </li>
+											<li> TRES </li>	
+										</ul>
+									</li>
+								</ol>
+							</li>
+						</ol>
+					</li>	
+				</ul>
+			</dl>
+		</tbody>
+	</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 9 </title>
+		<meta charset="UTF-8">
+		<link href="ejercicio9.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<!-- Crea un div con tres clases. 
+		Dentro de ese div habrá dos párrafos. 
+		Alinea esos párrafos a la izquierda y derecha. 
+		Luego, añade a esos párrafos una imagen. 
+		Las dos imágenes tendrán un alto de 200px y un ancho de 200px. 
+		Además, cada una tendrá un borde negro de 5 píxeles. -->
+		
+		<div class="clase1 clase2 clase3">
+			<p class="right"> Párrafo 1 </p>
+			<p class="left"> Párrafo 2 </p>
+			
+			<img src="https://i.blogs.es/f62f70/google-search/1366_521.jpg"
+								class="center" width="10%" height="200px" width="200px"> 
+								
+			<img src="https://i.blogs.es/f62f70/google-search/1366_521.jpg"
+								class="center" width="10%" height="200px" width="200px"> 
+		</div>
+	</body>
+</html>

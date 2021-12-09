@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> EJERCICIO 5 </title>
+	</head>
+	<body>
+		<ol type="A">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>	
+		</ol>
+		
+		<ol type="a">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>	
+		</ol>
+		
+		<ol type="1">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>	
+		</ol>
+		
+		<ol type="i">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>	
+		</ol>
+		
+		<ol type="I">
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>	
+		</ol>
+		
+		<ul>
+			<li> UNO </li>
+			<li> DOS </li>
+			<li> TRES </li>	
+		</ul>
+	</body>
+</html>

@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 6 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<a href="images/leon.jpg" target="_blank"><img src="images/leon.jpg" alt="Texto alternativo a la imagen" width="50%" height="auto" align="left"></a> <br/>
+	</body>
+</html>

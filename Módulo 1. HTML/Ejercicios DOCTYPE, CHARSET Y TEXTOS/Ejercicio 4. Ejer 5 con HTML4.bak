@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 5 </title>
+		<meta charset="UTF-8">
+		<!-- pongo el charset de UTF-8 porque en el párrafo voy a poner tildes -->
+	</head>
+	<body>
+		<h1> Este </h1>
+		<h2> es </h2>
+		<h3> el </h3>
+		<h4> ejercicio </h4>
+		<h5> número </h5>
+		<h6> cinco </h6>
+	</body>
+</html>

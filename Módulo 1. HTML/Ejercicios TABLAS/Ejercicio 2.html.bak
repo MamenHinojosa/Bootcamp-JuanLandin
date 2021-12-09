@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 2 </title>
+		<meta charset="UTF-8">
+	</head>
+	<body>
+		<table border=1 bgcolor="white" bordercolor="red">
+			<tbody>
+				<tr>	
+					<td rowspan="4"> Es noche
+					</td>
+					
+					<td rowspan="4"> De
+					</td>
+					
+					<td rowspan="4"> Free Fire
+					</td>
+				</tr>
+				
+				<tr> 
+					<td> Es noche de Free Fire
+					</td>
+					
+					<td> Es noche de Free Fire
+					</td>
+					
+					<td> Es noche de Free Fire
+					</td>
+				</tr>
+				
+				<tr>
+					<td> Es noche de Free Fire
+					</td>
+					
+					<td> Es noche de Free Fire
+					</td>
+					
+					<td> Es noche de Free Fire
+					</td>
+				</tr>
+				
+				<tr>
+					<td> Es noche de Free Fire
+					</td>
+					
+					<td> Es noche de Free Fire
+					</td>
+					
+					<td> Es noche de Free Fire
+					</td>
+				</tr>
+				
+			</tbody>
+		</table>
+	</body>
+</html>

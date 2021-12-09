@@ -1,0 +1,23 @@
+.inicio{
+	border-style: none none solid none;
+	border-color: #00F;
+	width: 0px 0px 2px 0px;
+}
+
+.solido{
+	border-style:solid;
+	border-color: #AAA;
+	border-width: 2px;
+}
+
+.puntitos{
+	border-style: dotted none dotted none;
+	border-color: #F00;
+	border-width: 4px 0px 4px 0px;
+}
+
+.lineas{
+	border-style: dashed;
+	border-color: #0F0;
+	border-width: 2px;
+}

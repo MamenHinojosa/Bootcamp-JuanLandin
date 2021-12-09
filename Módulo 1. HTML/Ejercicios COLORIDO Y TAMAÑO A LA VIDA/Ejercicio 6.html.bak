@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Ejercicio 9 </title>
+		<meta charset="UTF-8">
+		<!-- pongo el charset de UTF-8 porque en el párrafo voy a poner tildes -->
+	</head>
+	<body>
+		<p>
+			<font size="7"> Lorem Ipsum </font>
+		</p><br/>
+		<p>
+			<font size="6"> Lorem Ipsum </font>
+		</p><br/>
+		<p>
+			<font size="5"> Lorem Ipsum </font>
+		</p><br/>
+		<p>
+			<font size="4"> Lorem Ipsum </font>
+		</p>
+		
+	</body>
+</html>

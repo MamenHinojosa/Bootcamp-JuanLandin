@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> EJERCICIO 3 </title>
+	</head>
+	<body>
+		<ol type="a">
+			<li>
+				<a href="https://www.google.es/" rel="next" target="_blank"> Google </a>
+			</li>
+			<li>
+				<a href="https://www.marca.com/" rel="next" target="_blank"> Marca </a> 
+			</li>
+			<li>
+				<a href="https://twitter.com/?lang=es" rel="next" target="_blank"> Twitter </a>
+			</li>
+		</ol>
+		
+		<ul>
+			<li> 
+				<img src="https://img.freepik.com/foto-gratis/retrato-joven-sonriente-gafas_171337-4842.jpg?size=626&ext=jpg">
+			</li>
+			<li> 
+				<img src="https://www.hola.com/imagenes/estar-bien/20210706192625/personalidad-adultos-altas-capacidades-psicologia/0-974-472/altas-capacidades-m.jpg?filter=w500">
+			</li>
+			<li> 
+				<img src="https://lamenteesmaravillosa.com/wp-content/uploads/2018/09/hombre-creido-pensando-que-sabe.jpg">
+			</li>
+		</ul>
+	</body>
+</html>
